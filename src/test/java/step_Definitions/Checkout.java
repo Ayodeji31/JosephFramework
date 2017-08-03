@@ -48,7 +48,8 @@ public class Checkout extends TestBase{
 	@When("^I click continue button$")
 	public void i_click_continue_button() throws Throwable {
 	CheckoutPage checkoutpage = PageFactory.initElements(driver, CheckoutPage.class);
-	checkoutpage.click_Check_continue();
+	checkoutpage.click_New_customerContinue();
+	Thread.sleep(1000);
 	}
 
 	@When("^I select cash on delivery$")

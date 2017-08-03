@@ -24,6 +24,9 @@ public class CheckoutPage {
 	@FindBy(how=How.CSS, using = "tdb5")
 	public static WebElement Click_Order_continue;
 	
+	@FindBy(how=How.ID, using= "tdb4")
+	public static WebElement NewCustomer_continue;
+	
 	
 	
 	
@@ -52,6 +55,10 @@ public class CheckoutPage {
 	
 	public void click_order_cont(){
 		Message_Displayed.isDisplayed();
+	}
+	
+	public void click_New_customerContinue(){
+		NewCustomer_continue.click();
 	}
 
 
