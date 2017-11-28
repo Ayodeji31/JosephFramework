@@ -9,7 +9,7 @@ public class TestBase {
 	
 	public WebDriver getDriver(){
 		if(driver == null){
-		System.setProperty("Webdriver.Chromedriver", "C:\\chromedriver");	
+		System.setProperty("webdriver.Chromedriver", "C:\\chromedriver");	
 		driver = new ChromeDriver();	
 		}
 		return driver;
