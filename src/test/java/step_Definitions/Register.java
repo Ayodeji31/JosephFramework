@@ -1,17 +1,26 @@
 package step_Definitions;
 
+import java.io.IOException;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
+import cucumber.api.java.Before;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import modules.TestBase;
 import pageObjects.AccountSuccessPage;
 import pageObjects.LoginPage;
+import pageObjects.LogoffPage;
 import pageObjects.RegisterPage;
 
 public class Register extends TestBase{
-	WebDriver driver = getDriver();
+//	WebDriver driver = getDriver();
+	
+	@Before
+	public void setup() throws IOException{
+		initialize();
+	}
 	
 	@When("^I click the continue button$")
 	public void i_click_the_continue_button() throws Throwable {
@@ -49,6 +58,9 @@ public class Register extends TestBase{
 	public void i_should_be_logged_in() throws Throwable {
 		AccountSuccessPage accountsuccesspage =	PageFactory.initElements(driver, AccountSuccessPage.class);
 		accountsuccesspage.account_created();
+		
+		LogoffPage logoff = PageFactory.initElements(driver, LogoffPage.class);
+		logoff.click_continue();
 	    
 	}
 

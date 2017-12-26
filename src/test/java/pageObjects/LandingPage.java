@@ -30,7 +30,7 @@ public class LandingPage extends MyBaseClass{
 	
 	
 	
-	public void click_cart_content(){	
+	public void click_cart_content(){
 	cart_content.click();		
 	}
 	
@@ -47,8 +47,8 @@ public class LandingPage extends MyBaseClass{
 		}
 	
 	public void click_searchIcon(){	
-		searchIcon.click();		
-		}
+	searchIcon.click();		
+	}
 	
 	
 }

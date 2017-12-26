@@ -12,7 +12,7 @@ import pageObjects.LoginPage;
 import pageObjects.LogoffPage;
 
 public class Login extends TestBase{
-	WebDriver driver = getDriver();
+//	WebDriver driver = getDriver();
 
 	
 	@Given("^I entered valid \"([^\"]*)\" email in the text field$")

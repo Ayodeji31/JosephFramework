@@ -1,6 +1,5 @@
 C:\Selenium\Jakob\JosephFramework\src\test\java\pageObjects\LandingPage.java
 C:\Selenium\Jakob\JosephFramework\src\test\java\step_Definitions\Login.java
-C:\Selenium\Jakob\JosephFramework\src\test\java\step_Definitions\Logoff.java
 C:\Selenium\Jakob\JosephFramework\src\test\java\step_Definitions\Checkout.java
 C:\Selenium\Jakob\JosephFramework\src\test\java\pageObjects\SearchPage.java
 C:\Selenium\Jakob\JosephFramework\src\test\java\pageObjects\LogoffPage.java
@@ -8,7 +7,6 @@ C:\Selenium\Jakob\JosephFramework\src\test\java\step_Definitions\Search.java
 C:\Selenium\Jakob\JosephFramework\src\test\java\pageObjects\ShoppingPage.java
 C:\Selenium\Jakob\JosephFramework\src\test\java\pageObjects\LoginPage.java
 C:\Selenium\Jakob\JosephFramework\src\test\java\pageObjects\AccountSuccessPage.java
-C:\Selenium\Jakob\JosephFramework\src\test\java\step_Definitions\Landing.java
 C:\Selenium\Jakob\JosephFramework\src\test\java\modules\TestBase.java
 C:\Selenium\Jakob\JosephFramework\src\test\java\pageObjects\CheckoutPage.java
 C:\Selenium\Jakob\JosephFramework\src\test\java\pageObjects\RegisterPage.java
@@ -16,5 +14,4 @@ C:\Selenium\Jakob\JosephFramework\src\test\java\pageObjects\MyBaseClass.java
 C:\Selenium\Jakob\JosephFramework\src\test\java\pageObjects\ProductPage.java
 C:\Selenium\Jakob\JosephFramework\src\test\java\step_Definitions\Register.java
 C:\Selenium\Jakob\JosephFramework\src\test\java\pageObjects\Homepage.java
-C:\Selenium\Jakob\JosephFramework\src\test\java\step_Definitions\Home.java
 C:\Selenium\Jakob\JosephFramework\src\test\java\step_Definitions\RunnerTest.java

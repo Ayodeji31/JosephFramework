@@ -1,9 +1,12 @@
 package step_Definitions;
 
+import java.io.IOException;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
+import cucumber.api.java.Before;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
@@ -14,13 +17,17 @@ import pageObjects.LandingPage;
 import pageObjects.SearchPage;
 
 public class Search extends TestBase{
-	WebDriver driver = getDriver();
+//	WebDriver driver = getDriver();
 	
-		
+	@Before
+	public void setup() throws IOException{
+		initialize();
+	}	
 	
 	@Given("^Am on the home page$")
 	public void am_on_the_home_page() throws Throwable {
-	driver.navigate().to("http://www.carguruji.com/shop/");
+//	driver.navigate().to("http://www.carguruji.com/shop/");
+	driver.get(CONFIG.getProperty("testSiteName"));
 	driver.manage().window().maximize();
 
 	}
