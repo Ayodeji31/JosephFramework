@@ -1,3 +1,4 @@
+@ignore
 Feature: Mix basket
 
   Background: 

@@ -7,11 +7,11 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 3172503812,
+  "duration": 4481188465,
   "status": "passed"
 });
 formatter.before({
-  "duration": 304341,
+  "duration": 277168,
   "status": "passed"
 });
 formatter.background({
@@ -40,21 +40,21 @@ formatter.match({
   "location": "Search.am_on_the_home_page()"
 });
 formatter.result({
-  "duration": 5770611632,
+  "duration": 5623486176,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_on_my_account_link()"
 });
 formatter.result({
-  "duration": 2173332941,
+  "duration": 2645827154,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_a_welcome_message_displayed()"
 });
 formatter.result({
-  "duration": 109876938,
+  "duration": 83696813,
   "status": "passed"
 });
 formatter.scenario({
@@ -84,29 +84,29 @@ formatter.match({
   "location": "Checkout.i_entered_valid_email_in_the_text_field()"
 });
 formatter.result({
-  "duration": 263296067,
+  "duration": 372048330,
   "status": "passed"
 });
 formatter.match({
   "location": "Checkout.i_entered_correct_password_field()"
 });
 formatter.result({
-  "duration": 122298248,
+  "duration": 192457124,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_click_on_the_signin_button()"
 });
 formatter.result({
-  "duration": 2272218793,
+  "duration": 1939659369,
   "status": "passed"
 });
 formatter.before({
-  "duration": 248114,
+  "duration": 177756,
   "status": "passed"
 });
 formatter.before({
-  "duration": 207059,
+  "duration": 161547,
   "status": "passed"
 });
 formatter.background({
@@ -135,21 +135,21 @@ formatter.match({
   "location": "Search.am_on_the_home_page()"
 });
 formatter.result({
-  "duration": 1338840925,
+  "duration": 734676169,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_on_my_account_link()"
 });
 formatter.result({
-  "duration": 1819909973,
+  "duration": 1913351585,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_a_welcome_message_displayed()"
 });
 formatter.result({
-  "duration": 86618945,
+  "duration": 59732265,
   "status": "passed"
 });
 formatter.scenario({
@@ -179,21 +179,21 @@ formatter.match({
   "location": "Checkout.i_selected_the_product()"
 });
 formatter.result({
-  "duration": 4209786038,
+  "duration": 2998473141,
   "status": "passed"
 });
 formatter.match({
   "location": "Checkout.i_added_this_to_cart()"
 });
 formatter.result({
-  "duration": 1302321783,
+  "duration": 1404466791,
   "status": "passed"
 });
 formatter.match({
   "location": "Checkout.i_click_checkout_button()"
 });
 formatter.result({
-  "duration": 1243535319,
+  "duration": 1394748060,
   "status": "passed"
 });
 formatter.uri("Login.feature");
@@ -284,11 +284,11 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 188762,
+  "duration": 173973,
   "status": "passed"
 });
 formatter.before({
-  "duration": 319959,
+  "duration": 159925,
   "status": "passed"
 });
 formatter.background({
@@ -317,21 +317,21 @@ formatter.match({
   "location": "Search.am_on_the_home_page()"
 });
 formatter.result({
-  "duration": 958327142,
+  "duration": 736573667,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_on_my_account_link()"
 });
 formatter.result({
-  "duration": 2162035729,
+  "duration": 2170534330,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_a_welcome_message_displayed()"
 });
 formatter.result({
-  "duration": 78545428,
+  "duration": 74661009,
   "status": "passed"
 });
 formatter.scenario({
@@ -388,7 +388,7 @@ formatter.match({
   "location": "Login.i_entered_valid_email_in_the_text_field(String)"
 });
 formatter.result({
-  "duration": 255331435,
+  "duration": 378610689,
   "status": "passed"
 });
 formatter.match({
@@ -401,43 +401,43 @@ formatter.match({
   "location": "Login.i_entered_correct_password_field(String)"
 });
 formatter.result({
-  "duration": 81440238,
+  "duration": 178300454,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_click_on_the_signin_button()"
 });
 formatter.result({
-  "duration": 1119846116,
+  "duration": 2404866065,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_verify_that_I_am_logged_in()"
 });
 formatter.result({
-  "duration": 93687957,
+  "duration": 104532004,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_log_out()"
 });
 formatter.result({
-  "duration": 756194256,
+  "duration": 829067476,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_close_the_browser()"
 });
 formatter.result({
-  "duration": 70507,
+  "duration": 78342,
   "status": "passed"
 });
 formatter.before({
-  "duration": 153064,
+  "duration": 174514,
   "status": "passed"
 });
 formatter.before({
-  "duration": 340041,
+  "duration": 1450138,
   "status": "passed"
 });
 formatter.background({
@@ -466,21 +466,21 @@ formatter.match({
   "location": "Search.am_on_the_home_page()"
 });
 formatter.result({
-  "duration": 657570796,
+  "duration": 766603507,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_on_my_account_link()"
 });
 formatter.result({
-  "duration": 2181518019,
+  "duration": 3377589541,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_a_welcome_message_displayed()"
 });
 formatter.result({
-  "duration": 97961227,
+  "duration": 84549390,
   "status": "passed"
 });
 formatter.scenario({
@@ -537,7 +537,7 @@ formatter.match({
   "location": "Login.i_entered_valid_email_in_the_text_field(String)"
 });
 formatter.result({
-  "duration": 238395436,
+  "duration": 366308293,
   "status": "passed"
 });
 formatter.match({
@@ -550,43 +550,43 @@ formatter.match({
   "location": "Login.i_entered_correct_password_field(String)"
 });
 formatter.result({
-  "duration": 80496424,
+  "duration": 177786098,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_click_on_the_signin_button()"
 });
 formatter.result({
-  "duration": 1700047793,
+  "duration": 2093817519,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_verify_that_I_am_logged_in()"
 });
 formatter.result({
-  "duration": 44602029,
+  "duration": 76184085,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_log_out()"
 });
 formatter.result({
-  "duration": 607260364,
+  "duration": 880863966,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_close_the_browser()"
 });
 formatter.result({
-  "duration": 37931,
+  "duration": 101034,
   "status": "passed"
 });
 formatter.before({
-  "duration": 120933,
+  "duration": 149660,
   "status": "passed"
 });
 formatter.before({
-  "duration": 73184,
+  "duration": 163167,
   "status": "passed"
 });
 formatter.background({
@@ -615,21 +615,21 @@ formatter.match({
   "location": "Search.am_on_the_home_page()"
 });
 formatter.result({
-  "duration": 562556144,
+  "duration": 1575303143,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_on_my_account_link()"
 });
 formatter.result({
-  "duration": 2169922714,
+  "duration": 5187023971,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_a_welcome_message_displayed()"
 });
 formatter.result({
-  "duration": 77107618,
+  "duration": 72983409,
   "status": "passed"
 });
 formatter.scenario({
@@ -686,7 +686,7 @@ formatter.match({
   "location": "Login.i_entered_valid_email_in_the_text_field(String)"
 });
 formatter.result({
-  "duration": 123071596,
+  "duration": 300867867,
   "status": "passed"
 });
 formatter.match({
@@ -699,35 +699,35 @@ formatter.match({
   "location": "Login.i_entered_correct_password_field(String)"
 });
 formatter.result({
-  "duration": 90865886,
+  "duration": 166149339,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_click_on_the_signin_button()"
 });
 formatter.result({
-  "duration": 1119919301,
+  "duration": 1501765397,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_verify_that_I_am_logged_in()"
 });
 formatter.result({
-  "duration": 42887545,
+  "duration": 72008187,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_log_out()"
 });
 formatter.result({
-  "duration": 691615047,
+  "duration": 894477105,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_close_the_browser()"
 });
 formatter.result({
-  "duration": 75416,
+  "duration": 69698,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -813,11 +813,11 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 141907,
+  "duration": 302022,
   "status": "passed"
 });
 formatter.before({
-  "duration": 180285,
+  "duration": 146959,
   "status": "passed"
 });
 formatter.background({
@@ -846,21 +846,21 @@ formatter.match({
   "location": "Search.am_on_the_home_page()"
 });
 formatter.result({
-  "duration": 908587906,
+  "duration": 758643419,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_on_my_account_link()"
 });
 formatter.result({
-  "duration": 2315210314,
+  "duration": 3940530856,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_a_welcome_message_displayed()"
 });
 formatter.result({
-  "duration": 89690022,
+  "duration": 71535433,
   "status": "passed"
 });
 formatter.scenario({
@@ -912,7 +912,7 @@ formatter.match({
   "location": "Login.i_entered_wrong_address_in_the_email_text_field(String)"
 });
 formatter.result({
-  "duration": 171596144,
+  "duration": 284537612,
   "status": "passed"
 });
 formatter.match({
@@ -925,36 +925,36 @@ formatter.match({
   "location": "Login.i_input_invalid_password_or_blank_password(String)"
 });
 formatter.result({
-  "duration": 130538215,
+  "duration": 181175335,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_click_the_signIn_button()"
 });
 formatter.result({
-  "duration": 765375806,
+  "duration": 3248678586,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_should_see_error_message_displayed()"
 });
 formatter.result({
-  "duration": 73239987,
+  "duration": 86000608,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_log_out()"
 });
 formatter.result({
-  "duration": 750046299,
+  "duration": 5334662987,
   "status": "passed"
 });
 formatter.before({
-  "duration": 275335,
+  "duration": 244751,
   "status": "passed"
 });
 formatter.before({
-  "duration": 194118,
+  "duration": 158305,
   "status": "passed"
 });
 formatter.background({
@@ -983,21 +983,21 @@ formatter.match({
   "location": "Search.am_on_the_home_page()"
 });
 formatter.result({
-  "duration": 551544530,
+  "duration": 1228430691,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_on_my_account_link()"
 });
 formatter.result({
-  "duration": 2060719165,
+  "duration": 6693059817,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_a_welcome_message_displayed()"
 });
 formatter.result({
-  "duration": 93488039,
+  "duration": 70236577,
   "status": "passed"
 });
 formatter.scenario({
@@ -1049,7 +1049,7 @@ formatter.match({
   "location": "Login.i_entered_wrong_address_in_the_email_text_field(String)"
 });
 formatter.result({
-  "duration": 90489253,
+  "duration": 109810634,
   "status": "passed"
 });
 formatter.match({
@@ -1062,36 +1062,36 @@ formatter.match({
   "location": "Login.i_input_invalid_password_or_blank_password(String)"
 });
 formatter.result({
-  "duration": 180521102,
+  "duration": 203379620,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_click_the_signIn_button()"
 });
 formatter.result({
-  "duration": 725064003,
+  "duration": 871390528,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_should_see_error_message_displayed()"
 });
 formatter.result({
-  "duration": 61889672,
+  "duration": 91445647,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_log_out()"
 });
 formatter.result({
-  "duration": 756842654,
+  "duration": 1091634749,
   "status": "passed"
 });
 formatter.before({
-  "duration": 130304,
+  "duration": 150741,
   "status": "passed"
 });
 formatter.before({
-  "duration": 99960,
+  "duration": 119944,
   "status": "passed"
 });
 formatter.background({
@@ -1120,21 +1120,21 @@ formatter.match({
   "location": "Search.am_on_the_home_page()"
 });
 formatter.result({
-  "duration": 721205744,
+  "duration": 691369250,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_on_my_account_link()"
 });
 formatter.result({
-  "duration": 2382591513,
+  "duration": 2385130904,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_a_welcome_message_displayed()"
 });
 formatter.result({
-  "duration": 115157390,
+  "duration": 75158075,
   "status": "passed"
 });
 formatter.scenario({
@@ -1186,7 +1186,7 @@ formatter.match({
   "location": "Login.i_entered_wrong_address_in_the_email_text_field(String)"
 });
 formatter.result({
-  "duration": 277338595,
+  "duration": 305533809,
   "status": "passed"
 });
 formatter.match({
@@ -1199,36 +1199,36 @@ formatter.match({
   "location": "Login.i_input_invalid_password_or_blank_password(String)"
 });
 formatter.result({
-  "duration": 132928765,
+  "duration": 176256538,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_click_the_signIn_button()"
 });
 formatter.result({
-  "duration": 720462295,
+  "duration": 1125224558,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_should_see_error_message_displayed()"
 });
 formatter.result({
-  "duration": 42786246,
+  "duration": 99269042,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_log_out()"
 });
 formatter.result({
-  "duration": 970542285,
+  "duration": 1433946616,
   "status": "passed"
 });
 formatter.before({
-  "duration": 181177,
+  "duration": 144797,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2847955,
+  "duration": 135073,
   "status": "passed"
 });
 formatter.background({
@@ -1257,21 +1257,21 @@ formatter.match({
   "location": "Search.am_on_the_home_page()"
 });
 formatter.result({
-  "duration": 1153684200,
+  "duration": 659951946,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_on_my_account_link()"
 });
 formatter.result({
-  "duration": 2249712728,
+  "duration": 2235989884,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_a_welcome_message_displayed()"
 });
 formatter.result({
-  "duration": 79612407,
+  "duration": 70626126,
   "status": "passed"
 });
 formatter.scenario({
@@ -1323,7 +1323,7 @@ formatter.match({
   "location": "Login.i_entered_wrong_address_in_the_email_text_field(String)"
 });
 formatter.result({
-  "duration": 196820305,
+  "duration": 296792462,
   "status": "passed"
 });
 formatter.match({
@@ -1336,28 +1336,28 @@ formatter.match({
   "location": "Login.i_input_invalid_password_or_blank_password(String)"
 });
 formatter.result({
-  "duration": 71386720,
+  "duration": 103534629,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_click_the_signIn_button()"
 });
 formatter.result({
-  "duration": 1327265701,
+  "duration": 1700090607,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_should_see_error_message_displayed()"
 });
 formatter.result({
-  "duration": 51687553,
+  "duration": 75757797,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_log_out()"
 });
 formatter.result({
-  "duration": 867163608,
+  "duration": 970084701,
   "status": "passed"
 });
 formatter.uri("Register.feature");
@@ -1369,11 +1369,11 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 170021,
+  "duration": 180457,
   "status": "passed"
 });
 formatter.before({
-  "duration": 128073,
+  "duration": 152902,
   "status": "passed"
 });
 formatter.scenario({
@@ -1428,56 +1428,56 @@ formatter.match({
   "location": "Search.am_on_the_home_page()"
 });
 formatter.result({
-  "duration": 607713305,
+  "duration": 636158670,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_on_my_account_link()"
 });
 formatter.result({
-  "duration": 2107888012,
+  "duration": 2179774904,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_a_welcome_message_displayed()"
 });
 formatter.result({
-  "duration": 75114228,
+  "duration": 68350426,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.i_click_the_continue_button()"
 });
 formatter.result({
-  "duration": 978475680,
+  "duration": 824479876,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.i_filled_the_mandatory_fields_to_register()"
 });
 formatter.result({
-  "duration": 1451598840,
+  "duration": 3059236279,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.i_click_continue_after_filling_the_mandatory_fieds()"
 });
 formatter.result({
-  "duration": 1455807849,
+  "duration": 1659173389,
   "status": "passed"
 });
 formatter.match({
   "location": "Register.i_should_be_logged_in()"
 });
 formatter.result({
-  "duration": 828788968,
+  "duration": 1237655057,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_log_out()"
 });
 formatter.result({
-  "duration": 754443179,
+  "duration": 948217017,
   "status": "passed"
 });
 formatter.uri("Search.feature");
@@ -1556,11 +1556,11 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 265517,
+  "duration": 116162,
   "status": "passed"
 });
 formatter.before({
-  "duration": 536389,
+  "duration": 128049,
   "status": "passed"
 });
 formatter.background({
@@ -1589,21 +1589,21 @@ formatter.match({
   "location": "Search.am_on_the_home_page()"
 });
 formatter.result({
-  "duration": 591568949,
+  "duration": 1391605195,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_on_my_account_link()"
 });
 formatter.result({
-  "duration": 2240489676,
+  "duration": 3271314022,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_a_welcome_message_displayed()"
 });
 formatter.result({
-  "duration": 68293330,
+  "duration": 93361515,
   "status": "passed"
 });
 formatter.scenario({
@@ -1642,29 +1642,29 @@ formatter.match({
   "location": "Search.i_type_in_the_search_widget(String)"
 });
 formatter.result({
-  "duration": 73865181,
+  "duration": 213982265,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_search_Icon()"
 });
 formatter.result({
-  "duration": 1998028477,
+  "duration": 1762391949,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_search_product_displayed()"
 });
 formatter.result({
-  "duration": 64233812,
+  "duration": 77221442,
   "status": "passed"
 });
 formatter.before({
-  "duration": 108438,
+  "duration": 113461,
   "status": "passed"
 });
 formatter.before({
-  "duration": 105761,
+  "duration": 119945,
   "status": "passed"
 });
 formatter.background({
@@ -1693,21 +1693,21 @@ formatter.match({
   "location": "Search.am_on_the_home_page()"
 });
 formatter.result({
-  "duration": 604074600,
+  "duration": 707053859,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_on_my_account_link()"
 });
 formatter.result({
-  "duration": 2483912987,
+  "duration": 2322827940,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_a_welcome_message_displayed()"
 });
 formatter.result({
-  "duration": 73657229,
+  "duration": 57166969,
   "status": "passed"
 });
 formatter.scenario({
@@ -1746,29 +1746,29 @@ formatter.match({
   "location": "Search.i_type_in_the_search_widget(String)"
 });
 formatter.result({
-  "duration": 77231228,
+  "duration": 195131558,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_search_Icon()"
 });
 formatter.result({
-  "duration": 2050083739,
+  "duration": 2589179943,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_search_product_displayed()"
 });
 formatter.result({
-  "duration": 72206477,
+  "duration": 47581690,
   "status": "passed"
 });
 formatter.before({
-  "duration": 164666,
+  "duration": 146418,
   "status": "passed"
 });
 formatter.before({
-  "duration": 164666,
+  "duration": 143177,
   "status": "passed"
 });
 formatter.background({
@@ -1797,21 +1797,21 @@ formatter.match({
   "location": "Search.am_on_the_home_page()"
 });
 formatter.result({
-  "duration": 545844160,
+  "duration": 708275455,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_on_my_account_link()"
 });
 formatter.result({
-  "duration": 1990664940,
+  "duration": 2754826813,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_a_welcome_message_displayed()"
 });
 formatter.result({
-  "duration": 76871106,
+  "duration": 60789071,
   "status": "passed"
 });
 formatter.scenario({
@@ -1850,29 +1850,29 @@ formatter.match({
   "location": "Search.i_type_in_the_search_widget(String)"
 });
 formatter.result({
-  "duration": 89343289,
+  "duration": 216823107,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_search_Icon()"
 });
 formatter.result({
-  "duration": 1810069762,
+  "duration": 1695702374,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_search_product_displayed()"
 });
 formatter.result({
-  "duration": 63511784,
+  "duration": 47133250,
   "status": "passed"
 });
 formatter.before({
-  "duration": 160203,
+  "duration": 125888,
   "status": "passed"
 });
 formatter.before({
-  "duration": 310589,
+  "duration": 146418,
   "status": "passed"
 });
 formatter.background({
@@ -1901,21 +1901,21 @@ formatter.match({
   "location": "Search.am_on_the_home_page()"
 });
 formatter.result({
-  "duration": 582063424,
+  "duration": 830099970,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_on_my_account_link()"
 });
 formatter.result({
-  "duration": 2140002686,
+  "duration": 2293259508,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_a_welcome_message_displayed()"
 });
 formatter.result({
-  "duration": 71409925,
+  "duration": 59556131,
   "status": "passed"
 });
 formatter.scenario({
@@ -1954,21 +1954,21 @@ formatter.match({
   "location": "Search.i_type_in_the_search_widget(String)"
 });
 formatter.result({
-  "duration": 105659003,
+  "duration": 201743623,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_click_search_Icon()"
 });
 formatter.result({
-  "duration": 1691282593,
+  "duration": 1800348379,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.i_see_search_product_displayed()"
 });
 formatter.result({
-  "duration": 63985252,
+  "duration": 46797730,
   "status": "passed"
 });
 });
