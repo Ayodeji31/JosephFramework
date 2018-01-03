@@ -44,10 +44,15 @@ public class LandingPage extends MyBaseClass{
 	
 	public void type_into_quicksearch (String product){	
 	quicksearch.sendKeys(product);		
-		}
+	}
 	
 	public void click_searchIcon(){	
 	searchIcon.click();		
+	}
+
+	public void sendKeys(String string) {
+		// TODO Auto-generated method stub
+		
 	}
 	
 	
