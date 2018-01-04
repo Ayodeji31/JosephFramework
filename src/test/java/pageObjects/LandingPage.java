@@ -50,8 +50,8 @@ public class LandingPage extends MyBaseClass{
 	searchIcon.click();		
 	}
 
-	public void sendKeys(String string) {
-		// TODO Auto-generated method stub
+	public void sendProduct (String test) {
+		quicksearch.sendKeys(test);
 		
 	}
 	

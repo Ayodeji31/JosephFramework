@@ -27,6 +27,11 @@ public class LoginPage {
 	@FindBy(how=How.XPATH, using= "//*[@id='bodyContent']/table/tbody/tr/td")
 	public static WebElement Login_Error_message;
 	
+	@FindBy(how=How.ID, using= "tdb1")
+	public static WebElement Cart_Content_Button;
+	
+	
+	
 	
 	public void type_email_address( String email){
 		email_adds.sendKeys(email);
@@ -50,6 +55,10 @@ public class LoginPage {
 	}
 	public void check_error_message(){
 		Login_Error_message.isDisplayed();
+	}
+	
+	public void clickCartContent(){
+	Cart_Content_Button.click();
 	}
 
 }

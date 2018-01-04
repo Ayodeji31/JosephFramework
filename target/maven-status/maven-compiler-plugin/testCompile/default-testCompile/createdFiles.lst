@@ -1,6 +1,7 @@
 step_Definitions\Login.class
 pageObjects\RegisterPage.class
 pageObjects\ShoppingPage.class
+step_Definitions\MixBasket.class
 pageObjects\CheckoutPage.class
 pageObjects\LogoffPage.class
 step_Definitions\Search.class

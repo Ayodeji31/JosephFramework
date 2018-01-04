@@ -7,14 +7,14 @@ import org.openqa.selenium.support.How;
 public class ShoppingPage {
 	
 	
-	@FindBy(how=How.ID, using= "tdb5")
-	public static WebElement Check_Out;
+	@FindBy(how=How.ID, using= "tdb9")
+	public static WebElement CheckOut_Button;
 	
 	
 	
 	
 	public void click_checkout(){
-		Check_Out.click();
+		CheckOut_Button.click();
 	}
 
 }
