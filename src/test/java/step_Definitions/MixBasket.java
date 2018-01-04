@@ -62,7 +62,7 @@ public class MixBasket extends TestBase{
 	@Then("^I proceed to checkout$")
 	public void i_proceed_to_checkout() throws Throwable {
 		ShoppingPage shopping = PageFactory.initElements(driver, ShoppingPage.class);
-		shopping.click_checkout();
+		shopping.clickCheckout2();
 		
 		LoginPage loginpage =PageFactory.initElements(driver, LoginPage.class);
 		loginpage.clickCartContent();
